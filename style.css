@@ -1,0 +1,17 @@
+h1 {
+  border: 5px solid black;
+}
+
+img {
+  width: 10%;
+}
+
+button {
+  margin-top: 5%;
+}
+
+body {
+  background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  height: 100vh;
+  padding: 15%;
+}
